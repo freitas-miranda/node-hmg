@@ -37,7 +37,7 @@
     "passport-http-bearer": "^1.0.1",
     "path-to-regexp": "^3.0.0",
     "reflect-metadata": "^0.1.13",
-    "sequelize": "^5.2.13",
+    "sequelize": "^5.15.1",
     "sequelize-typescript": "^1.0.0-alpha.9",
     "swagger-parser": "^6.0.5",
     "tedious": "5.0.3",
