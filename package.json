@@ -31,7 +31,7 @@
     "lock": "^1.1.0",
     "mariadb": "^2.0.3",
     "module-alias": "^2.2.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "morgan": "^1.9.1",
     "passport": "^0.4.0",
     "passport-http-bearer": "^1.0.1",
